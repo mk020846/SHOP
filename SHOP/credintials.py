@@ -1,0 +1,6 @@
+host = "localhost"
+username = "root"
+password = "pi11pi"
+database = "SHOP"
+owner_name = "owner"
+owner_password = "owner"
